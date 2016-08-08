@@ -11,6 +11,14 @@ color:
     - '#4D4D4D'
     - '#333333'
 layout_spectrum: 0.9109619976952672
+author:
+  name: Jerry Spaeder
+  email: jerry@spaeder.net
+  url: spaeder.net
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/bc6d00d2-e2f1-4b09-b5e6-8f8cb5e25a1e.jpg
 name: Spaeder
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/5a29b69d-9803-4072-8bf9-da16acea8b01.jpg
 title: Jerry Spaeder
 description: ' '
