@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-12T06:30:39.562Z'
+datePublished: '2016-08-12T06:50:23.262Z'
 sourcePath: _posts/2016-08-08-golden-gate-traffic.md
 author: []
 via: {}
-dateModified: '2016-08-12T06:30:39.178Z'
+dateModified: '2016-08-12T06:50:22.869Z'
 title: Golden Gate 20140601
 publisher:
   name: Jerry Spaeder
