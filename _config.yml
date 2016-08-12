@@ -1,4 +1,4 @@
-typography_spectrum: 0.887985652545467
+typography_spectrum: 0.9920224007219076
 color:
   brandStrength: 0.26098680635914207
   lightness: 0.6547989279497415
@@ -11,6 +11,8 @@ color:
     - '#4D4D4D'
     - '#333333'
 layout_spectrum: 0.6793816641438752
+analytics:
+  google: UA-54466971-3
 author:
   name: Jerry Spaeder
   email: jerry@spaeder.net
